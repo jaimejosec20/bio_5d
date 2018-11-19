@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-social-podcast</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="More" transform="translate(-79.000000, -414.000000)" stroke="#FFFFFF" stroke-width="1.3">
+            <g id="categories" transform="translate(0.000000, 141.000000)">
+                <g id="mv-podcast">
+                    <g id="title" transform="translate(80.000000, 266.000000)">
+                        <g id="ico-social-podcast" transform="translate(0.000000, 8.000000)">
+                            <path d="M2.9540875,11.4027667 C2.9540875,8.95830833 5.43325417,8.96005833 5.43325417,8.96005833 L5.43325417,11.4027667 L5.43325417,13.845475 C5.43325417,13.845475 2.9540875,13.847225 2.9540875,11.4027667 Z" id="Stroke-1"></path>
+                            <path d="M11.0663583,11.4027667 C11.0663583,8.95830833 8.58719167,8.96005833 8.58719167,8.96005833 L8.58719167,11.4027667 L8.58719167,13.845475 C8.58719167,13.845475 11.0663583,13.847225 11.0663583,11.4027667 Z" id="Stroke-3"></path>
+                            <path d="M11.0663583,11.4032042 L12.247025,11.4032042 C13.2448167,10.2152458 13.8453583,8.68282917 13.8453583,7.01012083 C13.8453583,3.23537083 10.7851917,0.1749125 7.01015,0.1749125 C3.23510833,0.1749125 0.174941667,3.23537083 0.174941667,7.01012083 C0.174941667,8.68282917 0.775775,10.2152458 1.773275,11.4032042 L2.95423333,11.4032042" id="Stroke-5"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,36 @@
+<svg width="180" height="180" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+ <title>faviconsvg</title>
+ <desc>Created with Sketch.</desc>
+ <defs>
+  <polyline id="path-1" points="0 0 351.889381 0 351.889381 150.01402 0 150.01402"/>
+  <polyline id="path-3" points="0 0 351.889381 0 351.889381 150.01402 0 150.01402 126.728827 35.5516233"/>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="182" height="182" id="canvas_background" fill="none"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="Main-Workspace" fill="none" fill-rule="evenodd">
+   <g id="faviconsvg">
+    <g id="logo_mv">
+     <g id="Group-3">
+      <mask id="mask-2">
+       <use xlink:href="#path-1" id="svg_1"/>
+      </mask>
+      <g id="Clip-2"/>
+      <path fill="#000000" id="Fill-1" d="m173.402908,162.357044c0,0 -9.924647,5.163551 -70.258302,-48.004486c-60.333655,-53.186789 -96.547514,-101.873157 -96.547514,-101.873157c0,0 119.522816,9.819099 146.85403,41.219761c16.569548,19.024505 19.951786,108.657882 19.951786,108.657882"/>
+     </g>
+     <path d="m151.72601,51.295699c-30.764698,-31.059721 -139.03047,-36.617059 -139.03047,-36.617059c0,0 87.921099,21.376998 133.495899,62.528571c16.227908,14.660461 22.770317,54.499412 24.427272,80.291595c0.119574,-10.552123 -1.520298,-88.678742 -18.892701,-106.203107" id="Fill-4" fill="#000000"/>
+     <g id="Group-8">
+      <mask id="mask-4">
+       <use xlink:href="#path-3" id="svg_2"/>
+      </mask>
+      <g id="Clip-7"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="95px" height="95px" viewBox="0 0 95 95" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-arrow-left</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="32.5" cy="32.5" r="32.5"></circle>
+        <filter x="-36.2%" y="-33.1%" width="172.3%" height="172.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ico-arrow-left" transform="translate(15.000000, 13.000000)">
+            <g id="Oval-Copy-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <path d="M24.1866547,40.0021775 C23.4660879,40.6326665 23.3930655,41.7279137 24.0235546,42.4484804 C24.6540437,43.1690472 25.7492908,43.2420696 26.4698576,42.6115805 L37.0369075,33.3655124 C37.8262893,32.6748108 37.8262893,31.4468108 37.0369075,30.7561093 L26.4698576,21.5100411 C25.7492908,20.879552 24.6540437,20.9525744 24.0235546,21.6731412 C23.3930655,22.3937079 23.4660879,23.4889551 24.1866547,24.1194442 L33.2626009,32.0608108 L24.1866547,40.0021775 Z" id="ico-solid-chevron-right-copy" fill="#333333" fill-rule="nonzero" transform="translate(30.611769, 32.060811) scale(-1, 1) translate(-30.611769, -32.060811) "></path>
+        </g>
+    </g>
+</svg>

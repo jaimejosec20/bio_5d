@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>ico_facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Social-Media-Plugin" transform="translate(-759.000000, -353.000000)" fill="#FFFFFF">
+            <g id="content" transform="translate(379.000000, 230.000000)">
+                <g id="Group" transform="translate(171.000000, 109.000000)">
+                    <g id="facebook-login" transform="translate(175.000000, 0.000000)">
+                        <path d="M43.6143832,32 L34.9934618,32 C34.4446272,32 34,31.5550968 34,31.006476 L34,14.9934541 C34,14.4446936 34.4446971,14 34.9934618,14 L51.006608,14 C51.5552331,14 52,14.4446936 52,14.9934541 L52,31.006476 C52,31.5551667 51.5551632,32 51.006608,32 L46.4197395,32 L46.4197395,25.029408 L48.7594454,25.029408 L49.1097832,22.3128446 L46.4197395,22.3128446 L46.4197395,20.5784905 C46.4197395,19.7919827 46.6381418,19.2560036 47.7659836,19.2560036 L49.2044917,19.255375 L49.2044917,16.825659 C48.9557072,16.7925531 48.1017938,16.7185889 47.108332,16.7185889 C45.0343128,16.7185889 43.6143832,17.9845723 43.6143832,20.3094533 L43.6143832,22.3128446 L41.2686707,22.3128446 L41.2686707,25.029408 L43.6143832,25.029408 L43.6143832,32 L43.6143832,32 Z" id="ico_facebook"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
