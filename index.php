@@ -14,13 +14,8 @@
         <meta property="fb:app_id" content="" /> 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="google-site-verification" content="lPIuKnSc9Uj8aQT9r_93L5As2_neS3O_zuKqRowu-04" />
 
-	<!-- For iPhone 4 with high-resolution Retina display: -->
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/images/favicon/apple-touch-icon-114x114-precomposed.png">
-	<!-- For first-generation iPad: -->
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/images/favicon/apple-touch-icon-72x72-precomposed.png">
-	<!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
-	<link rel="apple-touch-icon-precomposed" href="assets/images/favicon/apple-touch-icon-precomposed.png">
-	<link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon/favicon.ico">
+	<link rel="apple-touch-icon" sizes="76x76" href="assets/images/apple-icon.png">
+	<link rel="icon" type="image/png" href="assets/images/favicon.png">
 	
 	<!--<link rel="stylesheet" type="text/css" href="https://static.BIO 5D.com/global/mv-style-min.css">-->
 	
@@ -154,7 +149,7 @@ $.each($accr_items,function(){
 </div>
 </div>
 
-<a class="rounded-lg border-white border border-solid pt-2 pb-4 md:pb-2 md:px-4 block text-black md:inline-block md:text-white item px-4" href="#">Iniciar Sesión</a>
+<a class="rounded-lg border-white border border-solid pt-2 pb-4 md:pb-2 md:px-4 block text-black md:inline-block md:text-white item px-4" href="login\web">Iniciar Sesión</a>
 </nav>
 </div>
 </div>
